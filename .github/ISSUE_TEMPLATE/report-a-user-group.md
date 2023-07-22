@@ -7,10 +7,20 @@ assignees: ''
 
 ---
 
-**Link to what you want to report**
+# Link to what you want to report
 
-**Optional screenshots of the offending thing**
+# Optional screenshots of the offending thing
 
-**The offending thing**
+# The offending thing
 
-**Additional information**
+# Version
+
+## WH Version
+
+## OS
+
+## Browser
+
+## Device
+
+# Additional information

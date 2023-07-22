@@ -7,4 +7,14 @@ assignees: ''
 
 ---
 
-**Additional Information**
+# Version
+
+## WH Version
+
+## OS
+
+## Browser
+
+## Device
+
+# Additional information

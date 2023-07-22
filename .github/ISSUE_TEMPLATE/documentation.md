@@ -1,12 +1,12 @@
 ---
 name: Documentation
-about: Describe this issue template's purpose here.
+about: Document new stuff about this project
 title: "[DOCS]"
 labels: documentation
 assignees: ''
 
 ---
 
-# Addition to the latest update
+# Addition to version: **[VERSION]**
 
-**Addition information**
+## Additional information
